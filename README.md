@@ -28,31 +28,30 @@
 
 # Compétences
 <p>
-Développement web full-stack
-Design & intégration web
-Docker & DevOps
-Algorithmie
-Programmation orientée objet / modulaire
-Architecture logicielle
-Environnement Linux / WSL
+
+![Fullstack](https://img.shields.io/badge/Fullstack-333?style=for-the-badge&logo=webflow&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-0284C7?style=for-the-badge&logo=html5&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-1E293B?style=for-the-badge&logo=php&logoColor=white)
+![Design](https://img.shields.io/badge/Design-F97316?style=for-the-badge&logo=figma&logoColor=white)
+![Intégration Web](https://img.shields.io/badge/Intégration_Web-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-4B5563?style=for-the-badge&logo=githubactions&logoColor=white)
+![OOP](https://img.shields.io/badge/POO-3B82F6?style=for-the-badge&logo=typescript&logoColor=white)
+![Modulaire](https://img.shields.io/badge/Modulaire-0F766E?style=for-the-badge&logo=javascript&logoColor=white)
+![Architecture Logicielle](https://img.shields.io/badge/Architecture-475569?style=for-the-badge&logo=stackshare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0A7E07?style=for-the-badge&logo=windows-terminal&logoColor=white)
 </p>
 
 Site personnel : https://noorance.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patoumpalou&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patoumpalou&show_icons=true)
 
 <!--
-**Patoumpalou/Patoumpalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
